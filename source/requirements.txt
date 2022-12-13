@@ -1,0 +1,4 @@
+sudachitra
+
+# need to sync datasets version
+datasets>=2.6
